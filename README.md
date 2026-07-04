@@ -115,8 +115,7 @@ python main.py
 - Deploy the model as a small web app for live customer scoring.
 
 ## 👤 Author
-**\<Your Name\>**
-GitHub: [@your-username](https://github.com/your-username)
+Dhanushri A
 
 ## 📄 License
 This project is licensed under the MIT License.
