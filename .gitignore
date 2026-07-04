@@ -1,0 +1,25 @@
+# --- Virtual environment ---
+venv/
+env/
+.venv/
+
+# --- Python cache/compiled files ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- VS Code editor settings ---
+.vscode/
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Environment variables / secrets ---
+.env
+
+# --- Optional: exclude large raw data if you don't want it in Git ---
+# data/Mall_Customers.csv
